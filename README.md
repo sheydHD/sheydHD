@@ -1,6 +1,6 @@
 # About Me:
-- I’m currently working on the development of my startup<br>
-- I’m looking for help with testing and content creation <br>
+- I’m currently working on the development of my startup ![Yulai](https://yulai.online/)<br>
+- I’m looking for help with testing and content creation<br>
 - I’m currently learning everything about entrepreneurship<br>
 - Ask me about anything<br>
 - Fun fact: I'm a self-taught software developer
