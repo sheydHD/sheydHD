@@ -1,5 +1,5 @@
 # About Me:
-- I’m currently working on the development of my startup <a href="https://yulai.online/"><img src="https://yulai.online/_next/image?url=%2Fshared%2Flogos%2Flogo_text.svg&w=256&q=75" width="100" alt="Yulai"></a><br>
+- I’m currently working on the development of my startup <a href="https://yulai.online/"><img src="https://yulai.online/_next/image?url=%2Fshared%2Flogos%2Flogo_text.svg&w=256&q=75" width="45" alt="Yulai"></a><br>
 - I’m looking for help with testing and content creation<br>
 - I’m currently learning everything about entrepreneurship<br>
 - Ask me about anything<br>
