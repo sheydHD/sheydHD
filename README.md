@@ -3,7 +3,7 @@
 - I’m looking for help with testing and content creation<br>
 - I’m currently learning everything about entrepreneurship<br>
 - Ask me about anything<br>
-- Fun fact: I'm a self-taught software developer
+- Fun fact: I'm a self-taught software engineer
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonidudij/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antonidudij@gmail.com) 
